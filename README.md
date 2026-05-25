@@ -1,6 +1,7 @@
 # ChemAI: Predict the Cure
 
 **Команда:** 3_Два Сереги и еще эти трое 
+
 **Участники:**  
 * Романов Михаил Денисович— Kaggle: [@miroshama]  
 * Старцева Елена Валериевна — Kaggle: [@helenstar]  
@@ -28,12 +29,18 @@
 
 ```text
 .
-├── data/                       # Данные (не включены в репозиторий)
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│   └── sample_submission.csv
 ├── notebooks/
-│   ├── 01_research_log.ipynb   # Исследовательский лог и анализ гипотез
-│   └── 02_final_solution.ipynb # Финальное воспроизводимое решение
-├── submissions/                # Результаты предсказаний
-├── presentation/               # Презентация решения
+│   ├── 01_research_log.ipynb
+│   └── 02_final_solution.ipynb
+├── submissions/
+│   └── final_submission.csv
+├── presentation/
+│   └── presentation.*
+├── requirements.txt
 └── README.md
 ```
 
