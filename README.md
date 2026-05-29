@@ -39,7 +39,7 @@
 ├── submissions/
 │   └── final_submission.csv
 ├── presentation/
-│   └── presentation.*
+│   └── Презентация_3_Два_Сереги_и_ещё_эти_трое.pptx
 ├── requirements.txt
 └── README.md
 ```
